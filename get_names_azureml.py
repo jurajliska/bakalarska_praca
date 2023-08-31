@@ -166,7 +166,7 @@ if __name__ == "__main__":
                 body = str.encode(json.dumps(data))
 
                 url = 'https://ussouthcentral.services.azureml.net/workspaces/6e99d3e58a3a4a8a9318ffd27eaf6e25/services/027396b45a264d2484836528b3acfa9a/execute?api-version=2.0&format=swagger'
-                api_key = 'm07zEuv0qmi7aT1DLaOBz3FcYywIvz+UQyTcJpjyCh+RnhwLB7gRCkAYD6EZ2XzICuXLsTwXkCe4yWQZxtpNoA=='  # Replace this with the API key for the web service
+                api_key = ' '  # Replace this with the API key for the web service
                 headers = {'Content-Type': 'application/json', 'Authorization': ('Bearer ' + api_key)}
 
                 req = urllib.request.Request(url, body, headers)

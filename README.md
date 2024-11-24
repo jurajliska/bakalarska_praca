@@ -1,5 +1,5 @@
 # bakalarska_praca
-Bachelor work
+My bachelor thesis.
 
 Viac info:     https://opac.crzp.sk/?fn=detailBiblioForm&sid=AFB64E0160B4F4E92F46D39F9648
 
